@@ -1,0 +1,47 @@
+body{
+	background-image: url(bg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.regform{
+	width: 500px;
+	background-color: rgb(0,0,0,0.6);
+	margin:auto;
+	margin-top: 30px;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	border-radius: 15px 15px 0px 0px;
+	color: white;
+}
+.main{
+	background-color: rgb(0,0,0,0.5);
+	width: 500px;
+	margin: auto;
+	color: white;
+	border-radius: 0px 0px 15px 15px;
+}
+form{
+	padding: 10px;
+}
+td{
+	padding: 5px;
+}
+.tabel{
+	width: 400px;
+	background-color: rgb(0,0,0,0.6);
+	margin:auto;
+	margin-top: 20px;
+	padding: 5px 0px 5px 0px;
+	text-align: center;
+	border-radius: 15px 15px 0px 0px;
+	color: white;
+}
+.table{
+	background-color: rgb(0,0,0,0.5);
+	width:400px;
+	margin: auto;
+	border-color: yellow;
+	padding: 10px;
+	color: white;
+	border-radius: 0px 0px 15px 15px;
+}
